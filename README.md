@@ -1,3 +1,5 @@
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aadeesh</h1>
+
 ### 🙋‍♂️ About Me
 
 - 🔭 I’m currently working and contributing on *IIT BHU App, Beacon*

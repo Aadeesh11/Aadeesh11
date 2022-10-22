@@ -2,9 +2,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working and contributing on *IIT BHU App, Beacon*
-
-- 🌱 I’m currently learning *Flutter & GraphQL*
+- 🌱 I’m currently learning *Flutter, GraphQL and Docker*
 
 - 👨‍💻 All of my repositories are available at **[My Repositories](https://github.com/Aadeesh11?tab=repositories)**
 

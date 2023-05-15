@@ -4,11 +4,13 @@
 
 - 🌱 I’m currently learning *Systems programming* and *operating systems*.
 
+- 🌱 I'm currently exploring *Golang*!
+
 - 👨‍💻 All of my repositories are available at **[My Repositories](https://github.com/Aadeesh11?tab=repositories)**
 
 - 📫 Mail me at *asoswal@gmail.com*
 
-- Would love to discuss on *Fullstack development, DevOps, scripting, and Computer Networks*.
+- Would love to discuss on *Fullstack development, DevOps, and Computer Networks*.
 
 
 <p align="left">

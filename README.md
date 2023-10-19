@@ -12,6 +12,7 @@
 
 - Would love to discuss on *Fullstack development, DevOps, and Computer Networks*.
 
+[![Aadeesh11's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadeesh11&theme=onedark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📬 Reach me out
 <p align="left">
